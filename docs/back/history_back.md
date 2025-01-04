@@ -21,3 +21,5 @@
   812  nvm list
   813  cd ..
   814  touch .nvmrc
+  833  pnpm i express
+  834  pnpm i -D @types/express
