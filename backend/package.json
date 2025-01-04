@@ -9,7 +9,7 @@
     "prettify": "prettier --loglevel warn --cache --write '{src/**/*,*}.{ts,tsx,js,json,yml,scss}' '!**/{node_modules,dist}/**/*'"
   },
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "4.18.2"
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
